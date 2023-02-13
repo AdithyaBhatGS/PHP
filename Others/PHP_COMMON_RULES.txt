@@ -1,0 +1,17 @@
+*PHP->HyperText Preprocessor
+
+*It is a Server side scripting language
+
+*Depending on the client's request it sends client side scripts(HTML,CSS,JS)
+
+* Case Sensitivity:
+
+1)Keywords->Not case sensitive 
+2)User defined names(variable,fun,class names)->case sensitive
+
+*Comments:
+
+1)Single line Comments: // Text........
+
+2)Multi line Comments: /* Text........ */
+
